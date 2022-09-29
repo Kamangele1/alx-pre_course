@@ -1,2 +1,2 @@
 My first readme
-i love git
+ilike git
